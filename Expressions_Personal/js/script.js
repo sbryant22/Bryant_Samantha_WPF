@@ -7,7 +7,7 @@
 
 // Givens:
 
-var songsPurchased = ["week1","week2","week3","week4"];
+var songsPurchased = ["week1","week2","week3","week4"]; // Array for songs purchased in increments of weeks
 songsPurchased[0] = prompt("Please enter the total dollar amount of songs purchased for first week.") // Total dollar amount for songs purchased for that week
 
 //var songsPurchased = newArray(4); // Array for songs purchased
