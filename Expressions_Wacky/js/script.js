@@ -2,7 +2,7 @@
 
 // Calculate how many Twizzlers it would take to sculpt the eiffel tower. A small one of course.
 
-
+// The length of an average size of a Twizzler is 12 inches.
 
 // Givens:
 
