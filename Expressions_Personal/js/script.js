@@ -7,7 +7,7 @@
 
 // Givens:
 
-var songsPurchased = [1.29, 2.00, 6.45, 2.58]; // Array for songs purchased in increments of weeks
+var songsPurchased = ["week1", "week2", "week3", "week4"]; // Array for songs purchased in increments of weeks
 songsPurchased[0] = prompt("Please enter the total dollar amount of songs purchased for first week."); // Total dollar amount for songs purchased for that week
 songsPurchased[1] = prompt("Please enter the total dollar amount of songs purchased for second week."); // Total dollar amount for songs purchased for that week
 songsPurchased[2] = prompt("Please enter the total dollar amount of songs purchased for third week."); // Total dollar amount for songs purchased for that week
@@ -19,7 +19,7 @@ var giftCard = prompt("Please enter a gift card amount (If you have one. If not,
 
 // Equation:
 
-var total = (songsPurchased[0] + songsPurchased[1] + songsPurchased[2] + songsPurchased[3]); // add up the amounts of songs purchased
+var total = songsPurchased[0] + songsPurchased[1] + songsPurchased[2] + songsPurchased[3]; // add up the amounts of songs purchased
 var weeklyAverage = (total/howManyWeeks) - giftCard; // after adding and getting a total, multiply it by how many weeks and then subtract a gift card amount if user enters one
 
 console.log("You have spent a total of $"+ total +" over the course of "+ howManyWeeks +" weeks. That is a weekly average of $"+ weeklyAverage +".") // print out results for the total for the month
