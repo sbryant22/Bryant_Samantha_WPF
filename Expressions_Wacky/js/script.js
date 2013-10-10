@@ -10,10 +10,10 @@ var length = prompt("Please enter the length (in inches) of the Twizzler candy y
 
 var width = prompt("Please add the width (in inches) of the Eiffel Tower you want to create. \nHint: You don't have to put inches in the text field but measure in inches."); // Initialize the width of the Eiffel Tower that you want to replicate. Big or small.
 
-var height = prompt("Please add the height (in inches) of the Eiffel Tower that you want to create."); // Initialize the height of the Eiffel Tower that you want to replicate. Big or small.
+var height = prompt("Please add the height (in inches) of the Eiffel Tower that you want to create. \nHint: You don't have to put inches in the text field but measure in inches."); // Initialize the height of the Eiffel Tower that you want to replicate. Big or small.
 
 // Equation:
 
 var total = length * width * height; // formula for finding out how many Twizzler's you would need to sculpt a small or big version of the Eiffel Tower.
 
-console.log("You will need "+ total +" many Twizzler candies to sculpt a "+ width +" by "+ length +" Eiffel Tower replica."); // print out of the amount of Twizzlers needed for an Eiffel Tower sculpture.
+console.log("You will need "+ total +" Twizzler candies to sculpt a "+ width +" by "+ length +" Eiffel Tower replica."); // print out of the amount of Twizzlers needed for an Eiffel Tower sculpture.
