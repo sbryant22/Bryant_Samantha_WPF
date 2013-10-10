@@ -6,11 +6,11 @@
 
 // Givens:
 
-var length = prompt("Please enter the length (in inches) of the Twizzler candy you want to use. \nHint: You don't have to put inches in the text field but measure in inches."); // Initialize the length of a piece of Twizzler candy.
+var length = prompt("Please enter the length (in inches) of the Twizzler candy you want to use. \n\nHint: You don't have to put inches in the text field but measure in inches."); // Initialize the length of a piece of Twizzler candy.
 
-var width = prompt("Please add the width (in inches) of the Eiffel Tower you want to create. \nHint: You don't have to put inches in the text field but measure in inches."); // Initialize the width of the Eiffel Tower that you want to replicate. Big or small.
+var width = prompt("Please add the width (in inches) of the Eiffel Tower you want to create. \n\nHint: You don't have to put inches in the text field but measure in inches."); // Initialize the width of the Eiffel Tower that you want to replicate. Big or small.
 
-var height = prompt("Please add the height (in inches) of the Eiffel Tower that you want to create. \nHint: You don't have to put inches in the text field but measure in inches."); // Initialize the height of the Eiffel Tower that you want to replicate. Big or small.
+var height = prompt("Please add the height (in inches) of the Eiffel Tower that you want to create. \n\nHint: You don't have to put inches in the text field but measure in inches."); // Initialize the height of the Eiffel Tower that you want to replicate. Big or small.
 
 // Equation:
 
