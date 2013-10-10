@@ -18,4 +18,4 @@ var total = length * width * height; // formula for finding out how many Twizzle
 
 console.log("You will need "+ total +" Twizzler candies to sculpt a "+ width +" by "+ length +" Eiffel Tower replica."); // print out of the amount of Twizzlers needed for an Eiffel Tower sculpture.
 
-alert("You will need "+ total +" Twizzler candies to sculpt a "+ width +" by "+ length +" Eiffel Tower replica.");
+alert("You will need "+ total +" Twizzler candies to sculpt a "+ width +" by "+ length +" Eiffel Tower replica."); // added an alert to this code so the user can see how many pixels they need to move if they couldn't see the console message.
