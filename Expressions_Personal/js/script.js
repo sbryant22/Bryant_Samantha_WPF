@@ -7,6 +7,7 @@
 
 // Givens:
 
+var songsPurchased = newArray(4); // Array for songs purchased
 
 
 
