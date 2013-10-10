@@ -6,4 +6,6 @@
 
 // Givens:
 
-var length = prompt("Please enter the length (in inches) of the Twizzler candy you want to use.");
+var length = prompt("Please enter the length (in inches) of the Twizzler candy you want to use."); // Initialize the length of a piece of Twizzler candy.
+
+
