@@ -15,5 +15,5 @@ var positionNum = prompt("What is the number of it's position? \nHint: Use the w
 
 // Equation:
 
-//var total = (totalWidth) - (width * positionNum);
+var total = (totalWidth) - (width * positionNum);
 
