@@ -2,6 +2,7 @@
 
 // This expression represents the web design and development industry
 
+// When a web designer wants to move an image (like a logo or a picture) from area of the page to another, this formula is used to give exact placement for the image.
 // The formula used for when you are needing to move an image across an area of a web page.
 
 // Givens:
