@@ -11,3 +11,6 @@ var width = prompt("Please add the width (in inches) of the Eiffel Tower you wan
 
 var height = prompt("Please add the height (in inches) of the Eiffel Tower that you want to create.");
 
+// Equation:
+
+var total = length * width * height; 
