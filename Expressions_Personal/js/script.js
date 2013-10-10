@@ -11,7 +11,8 @@ var songsPurchased = ["week1","week2","week3","week4"]; // Array for songs purch
 songsPurchased[0] = prompt("Please enter the total dollar amount of songs purchased for first week."); // Total dollar amount for songs purchased for that week
 songsPurchased[1] = prompt("Please enter the total dollar amount of songs purchased for second week."); // Total dollar amount for songs purchased for that week
 songsPurchased[2] = prompt("Please enter the total dollar amount of songs purchased for third week."); // Total dollar amount for songs purchased for that week
-songsPurchased[3] = prompt("Please enter the total dollar amount of songs purchased for third week."); 
+songsPurchased[3] = prompt("Please enter the total dollar amount of songs purchased for third week."); // Total dollar amount for songs purchased for that week
+
 
 
 
