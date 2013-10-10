@@ -9,7 +9,7 @@
 
 var totalWidth = prompt("Please enter the total width of your web page layout. \nHint: In pixels."); // total width of entire web page
 
-var width = prompt("What is the width of the area/section that you are wanting to move image to?"); // the width of the section that you want to move your image to and from.
+var width = prompt("Please enter the width (in pixels) of the section/area you are moving image to."); // the width of the section that you want to move your image to and from.
 
 var positionNum = prompt("What is the number of it's position? \nHint: Use the width of the image across area you want and assign the images a number"); // the position number that you want to move the image to
 
