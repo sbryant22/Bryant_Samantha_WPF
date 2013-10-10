@@ -15,6 +15,6 @@ songsPurchased[3] = prompt("Please enter the total dollar amount of songs purcha
 
 var howManyWeeks = prompt("Please enter the number of weeks."); // the amount of weeks that the user wants to divide the total by
 
-
+var giftCard = prompt("Please enter a giftcard amount (If you have one. If not, then simply put a zero.)");
 
 
