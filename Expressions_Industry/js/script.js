@@ -7,7 +7,7 @@
 
 // Givens:
 
-var totalWidth: 960; // total width of entire web page
+var totalWidth: prompt("What is the total width of your web page layout?") 960; // total width of entire web page
 var width: 200; // the width of the section that you want to move your image to and from
 var positionNum: 5; // the position number that you want to move the image to
 
