@@ -4,6 +4,9 @@
 
 // The formula used for when you are needing to move an image across an area of a web page.
 
+// Givens:
+
+var totalWidth: 960; // total width of entire web page
 
 
 
