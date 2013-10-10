@@ -13,4 +13,5 @@ var height = prompt("Please add the height (in inches) of the Eiffel Tower that 
 
 // Equation:
 
-var total = length * width * height; 
+var total = length * width * height; // formula for finding out how many Twizzler's you would need to sculpt a small or big version of the Eiffel Tower.
+
