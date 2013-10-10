@@ -19,3 +19,4 @@ var total = (width * positionNum) - totalWidth; // the formula for finding the e
 
 console.log("You want to move your image "+ total +" pixels."); // prints out the total to the console
 
+alert("You want to move your image "+ total +" pixels."); // added an alert to this code so the user can see how many pixels they need to move if they couldn't see the console's message
