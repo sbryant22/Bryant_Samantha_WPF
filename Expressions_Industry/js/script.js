@@ -7,7 +7,7 @@
 
 // Givens:
 
-var totalWidth = prompt("Please enter the total width of your web page layout. \nHint: In pixels."); // total width of entire web page
+var totalWidth = prompt("Please enter the total width of your web page layout. \nHint: In inches."); // total width of entire web page
 
 var width = prompt("Please enter the width (in pixels) of the section/area you are moving image to."); // the width of the section that you want to move your image to and from.
 
@@ -15,5 +15,6 @@ var positionNum = prompt("Please enter your position number. \nHint: Use the wid
 
 // Equation:
 
-var total = (totalWidth) - (width * positionNum); // the formula for finding the exact placement for user's image.
+var total = totalWidth - (width * positionNum); // the formula for finding the exact placement for user's image.
 
+console.log(total);
