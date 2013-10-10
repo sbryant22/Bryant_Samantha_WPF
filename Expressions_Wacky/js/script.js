@@ -16,6 +16,6 @@ var height = prompt("Please add the height (in inches) of the Eiffel Tower that 
 
 var total = length * width * height; // formula for finding out how many Twizzler's you would need to sculpt a small or big version of the Eiffel Tower.
 
-console.log("You will need "+ total +" Twizzler candies to sculpt a "+ width +" by "+ length +" Eiffel Tower replica."); // print out of the amount of Twizzlers needed for an Eiffel Tower sculpture.
+console.log("You will need "+ total +" Twizzler candies to sculpt a "+ width +" by "+ height +" Eiffel Tower replica."); // print out of the amount of Twizzlers needed for an Eiffel Tower sculpture.
 
-alert("You will need "+ total +" Twizzler candies to sculpt a "+ width +" by "+ length +" Eiffel Tower replica."); // added an alert to this code so the user can see how many pixels they need to move if they couldn't see the console message.
+alert("You will need "+ total +" Twizzler candies to sculpt a "+ width +" by "+ height +" Eiffel Tower replica."); // added an alert to this code so the user can see how many pixels they need to move if they couldn't see the console message.
