@@ -17,4 +17,4 @@ var positionNum = prompt("Please enter your position number. \nHint: Use the wid
 
 var total = totalWidth - (width * positionNum); // the formula for finding the exact placement for user's image.
 
-console.log(total);
+console.log(total); // prints out the total to the console
