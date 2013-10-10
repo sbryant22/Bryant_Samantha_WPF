@@ -22,4 +22,3 @@ console.log("You want to move your image "+ total +" pixels."); // prints out th
 alert("You want to move your image "+ total +" pixels."); // added an alert to this code so the user can see how many pixels they need to move if they couldn't see the console message.
 
 
-// Made 23 commits for this to git repo
