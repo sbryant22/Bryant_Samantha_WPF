@@ -19,7 +19,10 @@ var giftCard = prompt("Please enter a gift card amount (If you have one. If not,
 
 // Equation:
 
-var total = songsPurchased[0] + songsPurchased[1] + songsPurchased[2] + songsPurchased[3]); // add up the amounts of songs purchased
+var total = songsPurchased[0] + songsPurchased[1] + songsPurchased[2] + songsPurchased[3]; // add up the amounts of songs purchased
 var monthlyTotal = (total * howManyWeeks) - giftCard; // after adding and getting a total, multiply it by how many weeks and then subtract a gift card amount if user enters one
 
+console.log("You have spent a total of $"+ total +" over the course of "+ howManyWeeks +" weeks. That is an average of $"+ monthlyTotal +" per month.") // print out results for the total for the month
 
+
+alert("You have spent a total of "+ total +" over the course of "+ howManyWeeks +" weeks. That is an average of $"+ monthlyTotal +" per month.") // added an alert message so user can see it without the console if wanted to
