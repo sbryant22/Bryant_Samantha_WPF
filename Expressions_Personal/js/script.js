@@ -2,7 +2,10 @@
 
 // This expression represents something that is personal to me
 
+// Calculating how many songs purchased from Itunes over the course of a few weeks to a year.
 
+
+// Givens:
 
 
 
