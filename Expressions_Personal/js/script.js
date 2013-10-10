@@ -19,4 +19,5 @@ var giftCard = prompt("Please enter a gift card amount (If you have one. If not,
 
 // Equation:
 
-
+var total = songsPurchased[0] + songsPurchased[1] + songsPurchased[2] + songsPurchased[3]);
+var monthlyTotal = (total * howManyWeeks) - giftCard;
