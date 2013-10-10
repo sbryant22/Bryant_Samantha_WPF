@@ -7,6 +7,7 @@
 // Givens:
 
 var totalWidth: 960; // total width of entire web page
+var width: 200; // the width of the section that you want to move your image to and from
 
 
 
