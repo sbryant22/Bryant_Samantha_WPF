@@ -15,6 +15,6 @@ var positionNum = prompt("Please enter your position number. \nHint: Use the wid
 
 // Equation:
 
-var total = totalWidth - (width * positionNum); // the formula for finding the exact placement for user's image.
+var total = (width * positionNum) - totalWidth; // the formula for finding the exact placement for user's image.
 
 console.log("You want to move your image "+ total +" inches."); // prints out the total to the console
