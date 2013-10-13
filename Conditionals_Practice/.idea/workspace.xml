@@ -44,7 +44,7 @@
       <file leaf-file-name="relational_express.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/relational_express.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+            <state line="4" column="0" selection-start="63" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
               <folding />
             </state>
           </provider>
@@ -53,7 +53,7 @@
       <file leaf-file-name="condition_express.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/condition_express.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="68" selection-end="68" vertical-scroll-proportion="0.08836524" vertical-offset="0" max-vertical-offset="679">
+            <state line="16" column="0" selection-start="372" selection-end="372" vertical-scroll-proportion="0.35346097" vertical-offset="0" max-vertical-offset="679">
               <folding />
             </state>
           </provider>
@@ -81,8 +81,8 @@
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/js/relational_express.js" />
-        <option value="$PROJECT_DIR$/js/condition_express.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/condition_express.js" />
       </list>
     </option>
   </component>
@@ -235,13 +235,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/relational_express.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="52" selection-start="287" selection-end="287" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="270">
@@ -249,9 +242,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/relational_express.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="63" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/condition_express.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="68" selection-end="68" vertical-scroll-proportion="0.08836524" vertical-offset="0" max-vertical-offset="679">
+        <state line="16" column="0" selection-start="372" selection-end="372" vertical-scroll-proportion="0.35346097" vertical-offset="0" max-vertical-offset="679">
           <folding />
         </state>
       </provider>
