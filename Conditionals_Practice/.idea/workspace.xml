@@ -26,16 +26,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="51" selection-start="425" selection-end="425" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="315">
+            <state line="10" column="42" selection-start="416" selection-end="416" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="315">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logical_operator.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="logical_operator.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/logical_operator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="41" selection-start="374" selection-end="374" vertical-scroll-proportion="0.27439025" vertical-offset="0" max-vertical-offset="656">
+            <state line="16" column="0" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
               <folding />
             </state>
           </provider>
@@ -50,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="condition_express.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/condition_express.js">
+      <file leaf-file-name="ternary.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/ternary.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+            <state line="27" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.61737806" vertical-offset="0" max-vertical-offset="656">
               <folding />
             </state>
           </provider>
@@ -62,7 +62,7 @@
       <file leaf-file-name="if_else.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/if_else.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="63" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+            <state line="0" column="0" selection-start="0" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
               <folding />
             </state>
           </provider>
@@ -94,8 +94,9 @@
         <option value="$PROJECT_DIR$/js/if_else.js" />
         <option value="$PROJECT_DIR$/js/else_if.js" />
         <option value="$PROJECT_DIR$/relational_operators.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/logical_operator.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/ternary.js" />
       </list>
     </option>
   </component>
@@ -270,20 +271,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/relational_express.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="63" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/if_else.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="63" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/else_if.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="1" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
@@ -298,9 +285,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/logical_operator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="51" selection-start="425" selection-end="425" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="315">
+        <state line="16" column="0" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <folding />
         </state>
       </provider>
@@ -312,9 +299,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/logical_operator.js">
+    <entry file="file://$PROJECT_DIR$/js/relational_express.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="41" selection-start="374" selection-end="374" vertical-scroll-proportion="0.27439025" vertical-offset="0" max-vertical-offset="656">
+        <state line="4" column="0" selection-start="63" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="42" selection-start="416" selection-end="416" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/if_else.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ternary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.61737806" vertical-offset="0" max-vertical-offset="656">
           <folding />
         </state>
       </provider>
