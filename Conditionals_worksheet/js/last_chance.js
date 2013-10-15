@@ -12,11 +12,11 @@ var carMpg = prompt("Please enter the gas mileage on your car.");
 var fuelGauge = prompt("Please enter the percentage that is currently on your Fuel Gauge.");
 //Gauge reading of the gas tank (in %)
 
-var gasTank = prompt("Please enter how many gallons your car can hold.");
+var gasTank = prompt("Please enter how many gallons your car has left.");
 //Car's gas tank capacity (in gallons)
 
-if(carMpg >= fuelGauge || gasTank < 3){
+if(carMpg > fuelGauge || gasTank < 3){ // car mileage is greater than % on fuel gauge OR there is less than 3 gallons left in the tank
     console.log("Yes, you can make it without stopping for gas!");
-}else{
+}else{ // if you have less than 3 gallons left in your tank
     console.log("You only have "+ gasTank +" gallons of gas in your tank, better get gas now while you can!");
 }
