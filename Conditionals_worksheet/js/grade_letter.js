@@ -19,8 +19,26 @@ letter grade for that number using conditional statements.
 
 // Given: letter grades and percentages
 
-var grades = prompt ("Please enter the number grade that you have received for the class.");
+var gradeHighA = 95;
+var gradeAverageA = 90;
+var gradeHighB = 85;
+var gradeAverageB = 80;
+var gradeHighC = 76;
+var gradeAverageC = 73;
+var gradeD = 70;
+var gradeF = 0;
 
+
+var grades = prompt ("Please enter the number grade (in percent) that you have received for the class.");
+// Asking to enter the number grade in percents form
+
+// Condition and result to print out:
+
+if(grades >= gradeHighA){
+    //if number grade is greater than or equal to 95%, you have an A+
+}else{
+    console.log("You have a "+ grades +", which means you have earned a(n) X in the class!");
+}
 
 
 
