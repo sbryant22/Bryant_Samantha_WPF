@@ -17,3 +17,10 @@ letter grade for that number using conditional statements.
     F = 0-69
  */
 
+// Given: letter grades and percentages
+
+var grades = prompt ("Please enter the number grade that you have received for the class.");
+
+
+
+
