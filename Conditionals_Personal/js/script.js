@@ -14,3 +14,4 @@ var time = prompt("Please enter the time you left for work this morning.");
 var traffic = prompt("Please enter (on a scale of 1 - 10) how you would rate the traffic. Light or heavy.");
 // Asking user to enter if the traffic is light or heavy for them using a scale of 1 - 10. 10 being extremely heavy
 
+// Ternary statement with printed out results to console:
