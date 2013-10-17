@@ -7,3 +7,5 @@ Rainbow has to have all colors present for pot of gold to appear. */
 // Given: steps and how many colors
 
 var steps = prompt("Please enter the amount of steps you have taken.");
+// The user adds how many steps they have taken to get to the other end of the current rainbow.
+
