@@ -5,7 +5,7 @@
 // Given: = Photoshop, Illustrator or CSS, Html, Javascript
 
 
-var workableHours = prompt("Please enter your workable hours for the year.");
+var photoShopDesign = prompt("Please enter (on a scale of 1 - 10) how much you like using Photoshop or Illustrator for designing a web page. \nHint: 10 being the highest rating");
 // Workable Hours for designing a client's web page as a freelancer
 
 var totalSalary = prompt("Please enter your total salary for the year.");
