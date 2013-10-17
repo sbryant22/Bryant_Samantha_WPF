@@ -8,7 +8,7 @@
 var photoShopDesign = prompt("Please enter (on a scale of 1 - 10) how much you like using Photoshop or Illustrator for designing a web page. \nHint: 10 being the highest rating");
 // Asking the user if they like/love working in PhotoShop, Illustrator, etc...
 
-var totalSalary = prompt("Please enter your total salary for the year.");
+var htmlCssProgramming = prompt("Please enter (on a scale of 1 - 10) how much you prefer using Programming languages. \nHint: Css, Html, Javascript etc...");
 // Total Salary for a designer for the whole year as a freelancer
 
 // Else if Statement and results to print out:
