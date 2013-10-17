@@ -11,3 +11,9 @@ var steps = prompt("Please enter the amount of steps you have taken.");
 
 var howManyColors = prompt("Please enter how many colors you see in the rainbow.");
 // Rainbow needs to have all seven colors present to have a pot of gold at the end of it.
+
+// If Else Statement and results to print to console:
+
+if(steps > 100 || howManyColors >= 7){
+    console.log("You have walked a total of "+ steps +" steps or there are "+ howManyColors +" colors in the rainbow, so you get the Pot of Gold!");
+}
