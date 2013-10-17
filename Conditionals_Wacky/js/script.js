@@ -4,4 +4,6 @@
 Rainbow has to have all colors present for pot of gold to appear. */
 
 
-// Given:
+// Given: steps and how many colors
+
+
