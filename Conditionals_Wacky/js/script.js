@@ -16,4 +16,5 @@ var howManyColors = prompt("Please enter how many colors you see in the rainbow.
 
 if(steps > 100 || howManyColors >= 7){
     console.log("You have walked a total of "+ steps +" steps or there are "+ howManyColors +" colors in the rainbow, so you get the Pot of Gold!");
+    // If the user has taken more than 100 steps towards the end of the rainbow or there are greater than or equal to 7 colors present than the user will find the Pot of Gold.
 }
