@@ -2,13 +2,13 @@
 
 // Traffic Patterns
 
-/* If leaving home between 7:00am and 7:20am to get to work by 8:30am, you will make it. If leaving after 7:30am
-but before 8:00am, you will not make it in time due to traffic.
+/* If leaving home between 7:00am and 8:00 am to get to work by 8:30am, you will make it. If leaving after 8:00am
+, you will not make it in time due to traffic.
  */
 
 // Givens: time and traffic
 
-var time = prompt("Please enter the time you left for work this morning.");
+var time = prompt("Please enter the time (in decimal form) you left for work this morning.\n\nHint: 7:20 is 7.20");
 // Asking user to enter what time they left for work that morning
 
 var traffic = prompt("Please enter (on a scale of 1 - 10) how you would rate the traffic. Light or heavy.");
