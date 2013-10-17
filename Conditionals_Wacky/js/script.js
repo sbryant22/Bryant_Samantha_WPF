@@ -15,7 +15,6 @@ var steps = prompt("Please enter the amount of steps you have taken.");
 var howManyColors = prompt("Please enter how many colors you see in the rainbow.");
 // Rainbow needs to have all seven colors present to have a pot of gold at the end of it.
 
-//var rainbowPresent = prompt("Is there a rainbow present?"); // If a Rainbow is present, then there is a good chance of the Pot of Gold being at the end of it.
 
 // If Else Statement and results to print to console:
 
