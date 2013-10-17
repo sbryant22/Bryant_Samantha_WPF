@@ -13,6 +13,6 @@ var htmlCssProgramming = prompt("Please enter (on a scale of 1 - 10) how much yo
 
 // Else if Statement and results to print out:
 
-if(workableHours * 0.25){ // if you have workable hours times that by 0.25 to get your billable hours
+if(photoShopDesign > 6 && htmlCssProgramming > 5){ // if you have workable hours times that by 0.25 to get your billable hours
     console.log("Your billable hours are")
 }
