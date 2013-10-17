@@ -7,7 +7,7 @@ Rainbow has to have all seven colors present for pot of gold to appear. */
 
 // Given: steps and how many colors
 
-// If steps are greater than 100 and there are 7 colors present in rainbow, then statement is true for pot of gold
+// If steps are greater than 100 or there are 7 colors present in rainbow, then statement is true for pot of gold
 // Otherwise you will get no pot of gold
 
 var steps = prompt("Please enter the amount of steps you have taken.");
@@ -19,8 +19,8 @@ var howManyColors = prompt("Please enter how many colors you see in the rainbow.
 
 // If Else Statement and results to print to console:
 
-if(steps > 100 && howManyColors >= 7){
-    console.log("You have walked a total of "+ steps +" steps and "+ howManyColors +" colors are present, so you get the Pot of Gold!");
+if(steps > 100 && howManyColors <= 2){ // True block statement
+    console.log("You have walked a total of "+ steps +" steps or "+ howManyColors +" colors are present, so you get the Pot of Gold!");
     // If the user has taken more than 100 steps towards the end of the rainbow or there are greater than or equal to 7 colors present than the user will find the Pot of Gold.
 }else{
     console.log("Without a rainbow, there is no Pot of Gold!");
