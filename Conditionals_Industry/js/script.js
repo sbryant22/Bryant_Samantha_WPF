@@ -17,6 +17,8 @@ if(photoShopDesign > 6 && htmlCssProgramming < 5){
 // if your number is higher than 6 for PhotoShop and lower than 5 for Programming, then this statement is true
     console.log("You should be a Web Designer!");
     // If Design number is higher than 6 for designing and lower than 5 for Programming, then user should lean more towards Web Design
-}else if(photoShopDesign < 5 && htmlCssProgramming > 3){ 
+}else if(photoShopDesign < 5 && htmlCssProgramming > 3){
+    // if Design number is lower than 5 and Programming number is greather than 3, then user should lean more towards Web Development.
+    
 
 }
