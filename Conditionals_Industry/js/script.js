@@ -5,3 +5,4 @@
 // Givens: = workable hours, total salary - (workable hours * (25%) = billable hours
 // total salary divided by billable hours = Base Rate
 
+var workableHours = prompt("Please enter your workable hours for the year.");
