@@ -23,4 +23,5 @@ if(steps > 100 && howManyColors >= 7){
     // If the user has taken more than 100 steps towards the end of the rainbow or there are greater than or equal to 7 colors present than the user will find the Pot of Gold.
 }else{
     console.log("Without a rainbow, there is no Pot of Gold!");
+    // Statement for when the "if" is False
 }
