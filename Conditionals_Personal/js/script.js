@@ -18,4 +18,4 @@ var traffic = prompt("Please enter (on a scale of 1 - 10) how you would rate the
 
 //(gpa > 2.0) ? console.log("You can graduate!") : console.log("GPA is too low!");
 
-(time > 7 < 8) ? console.log("You will make it to work on time!") : console.log("You will not make it to work on time today!");
+(time < 8) ? console.log("You will make it to work on time!") : console.log("You will not make it to work on time today!");
