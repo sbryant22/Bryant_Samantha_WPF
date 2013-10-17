@@ -9,4 +9,5 @@ but before 8:00am, you will not make it in time due to traffic.
 // Givens: time and traffic
 
 var time = prompt("Please enter the time you left for work this morning.");
+// Asking user to enter what time they left for work that morning
 
