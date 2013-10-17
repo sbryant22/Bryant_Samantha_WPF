@@ -15,3 +15,7 @@ var traffic = prompt("Please enter (on a scale of 1 - 10) how you would rate the
 // Asking user to enter if the traffic is light or heavy for them using a scale of 1 - 10. 10 being extremely heavy
 
 // Ternary statement with printed out results to console:
+
+//(gpa > 2.0) ? console.log("You can graduate!") : console.log("GPA is too low!");
+
+(time > 7 && < 8) ? console.log("You will make it to work on time!") : console.log("You will not make it to work on time today!");
