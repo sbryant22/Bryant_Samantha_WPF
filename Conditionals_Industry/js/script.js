@@ -7,3 +7,5 @@
 
 var workableHours = prompt("Please enter your workable hours for the year.");
 // Workable Hours for designing a client's web page as a Freelancer
+
+var totalSalary = prompt("Please enter your total salary for the year.");
