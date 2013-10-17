@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="47" selection-start="331" selection-end="331" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="285">
+            <state line="8" column="4" selection-start="281" selection-end="281" vertical-scroll-proportion="0.18987341" vertical-offset="0" max-vertical-offset="632">
               <folding />
             </state>
           </provider>
@@ -62,7 +62,7 @@
       <file leaf-file-name="grade_letter.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/grade_letter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+            <state line="29" column="0" selection-start="690" selection-end="690" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1065">
               <folding />
             </state>
           </provider>
@@ -77,10 +77,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="movie_ticket.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="movie_ticket.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/movie_ticket.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="64" selection-start="978" selection-end="978" vertical-scroll-proportion="0.466563" vertical-offset="0" max-vertical-offset="643">
+            <state line="20" column="64" selection-start="978" selection-end="978" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
               <folding />
             </state>
           </provider>
@@ -100,9 +100,9 @@
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/js/last_chance.js" />
         <option value="$PROJECT_DIR$/../Conditionals_Practice/js/ternary.js" />
+        <option value="$PROJECT_DIR$/js/movie_ticket.js" />
         <option value="$PROJECT_DIR$/js/grade_letter.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/movie_ticket.js" />
       </list>
     </option>
   </component>
@@ -254,37 +254,9 @@
         <state line="0" column="56" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="679" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/last_chance.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/grade_letter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Conditionals_Practice/js/logical_operator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="656">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="47" selection-start="331" selection-end="331" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="285">
           <folding />
         </state>
       </provider>
@@ -296,6 +268,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/last_chance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Conditionals_Practice/js/else_if.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="1" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
@@ -303,9 +282,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/movie_ticket.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="64" selection-start="978" selection-end="978" vertical-scroll-proportion="0.466563" vertical-offset="0" max-vertical-offset="643">
+        <state line="20" column="64" selection-start="978" selection-end="978" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/grade_letter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="690" selection-end="690" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="281" selection-end="281" vertical-scroll-proportion="0.18987341" vertical-offset="0" max-vertical-offset="632">
           <folding />
         </state>
       </provider>
