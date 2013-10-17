@@ -12,3 +12,7 @@ var totalSalary = prompt("Please enter your total salary for the year.");
 // Total Salary for a designer for the whole year as a freelancer
 
 // Else if Statement and results to print out:
+
+if(workableHours * 0.25){ // if you have workable hours times that by 0.25 to get your billable hours
+    console.log("")
+}
