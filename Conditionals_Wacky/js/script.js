@@ -2,7 +2,7 @@
 
 /* To get the pot of gold at the end of a rainbow, first, you have to take more than 100 steps towards either side of rainbow.
 Also, there needs to be a rainbow actually present for it to appear.
-Rainbow has to have all seven colors present for pot of gold to appear. */
+Rainbow has to have at least more than 1 color to be present for pot of gold to appear. */
 
 
 // Given: steps and how many colors
