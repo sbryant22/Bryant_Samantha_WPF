@@ -6,6 +6,7 @@
 // total salary divided by billable hours = Base Rate
 
 var workableHours = prompt("Please enter your workable hours for the year.");
-// Workable Hours for designing a client's web page as a Freelancer
+// Workable Hours for designing a client's web page as a freelancer
 
 var totalSalary = prompt("Please enter your total salary for the year.");
+// Total Salary for a designer for the whole year as a freelancer
