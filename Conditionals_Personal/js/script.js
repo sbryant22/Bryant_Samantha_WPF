@@ -2,7 +2,7 @@
 
 // Traffic Patterns
 
-/* If leaving home between 7:00am and 8:00 am to get to work by 8:30am, you will make it. If leaving after 8:00am
+/* If leaving home between 7:00am and 8:00am to get to work by 8:30am, you will make it. If leaving after 8:00am
 , you will not make it in time due to traffic.
  */
 
