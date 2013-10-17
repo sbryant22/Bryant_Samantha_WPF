@@ -13,11 +13,11 @@ var htmlCssProgramming = prompt("Please enter (on a scale of 1 - 10) how much yo
 
 // Else if Statement and results to print out:
 
-if(photoShopDesign > 6 && htmlCssProgramming < 5){
+if(photoShopDesign > 6){
 // if your number is higher than 6 for PhotoShop and lower than 5 for Programming, then this statement is true
     console.log("You should be a Web Designer!"); // True Statement
     // If Design number is higher than 6 for designing and lower than 5 for Programming, then user should lean more towards Web Design
-}else if(photoShopDesign < 5 && htmlCssProgramming > 3){
+}else if(htmlCssProgramming > 3){
     // if Design number is lower than 5 and Programming number is greather than 3, then user should lean more towards Web Development.
     console.log("You should be a Web Programmer!"); // True statement
 }else{
