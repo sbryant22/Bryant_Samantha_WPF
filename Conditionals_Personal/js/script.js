@@ -11,3 +11,4 @@ but before 8:00am, you will not make it in time due to traffic.
 var time = prompt("Please enter the time you left for work this morning.");
 // Asking user to enter what time they left for work that morning
 
+var traffic = prompt("Please enter (on a scale of 1 - 10) how you would rate the traffic. Light or heavy.");
