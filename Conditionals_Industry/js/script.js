@@ -9,7 +9,7 @@ var photoShopDesign = prompt("Please enter (on a scale of 1 - 10) how much you l
 // Asking the user if they like/love working in PhotoShop, Illustrator, etc...
 
 var htmlCssProgramming = prompt("Please enter (on a scale of 1 - 10) how much you prefer using Programming languages. \nHint: Css, Html, Javascript etc...");
-// Total Salary for a designer for the whole year as a freelancer
+// Asking the user if they prefer to code a website instead of designing it.
 
 // Else if Statement and results to print out:
 
