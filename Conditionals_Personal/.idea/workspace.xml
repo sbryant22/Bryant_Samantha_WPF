@@ -35,7 +35,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="670" selection-end="670" vertical-scroll-proportion="0.36036035" vertical-offset="0" max-vertical-offset="666">
+            <state line="16" column="57" selection-start="727" selection-end="727" vertical-scroll-proportion="0.36036035" vertical-offset="0" max-vertical-offset="666">
               <folding />
             </state>
           </provider>
@@ -53,7 +53,7 @@
       <file leaf-file-name="ternary.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Conditionals_Practice/js/ternary.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="0" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+            <state line="25" column="0" selection-start="426" selection-end="508" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
               <folding />
             </state>
           </provider>
@@ -196,13 +196,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Conditionals_Practice/js/ternary.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="41" selection-start="180" selection-end="180" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
@@ -217,9 +210,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Conditionals_Practice/js/ternary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="426" selection-end="508" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="670" selection-end="670" vertical-scroll-proportion="0.36036035" vertical-offset="0" max-vertical-offset="666">
+        <state line="16" column="57" selection-start="727" selection-end="727" vertical-scroll-proportion="0.36036035" vertical-offset="0" max-vertical-offset="666">
           <folding />
         </state>
       </provider>
