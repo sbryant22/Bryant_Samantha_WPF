@@ -10,3 +10,5 @@ var workableHours = prompt("Please enter your workable hours for the year.");
 
 var totalSalary = prompt("Please enter your total salary for the year.");
 // Total Salary for a designer for the whole year as a freelancer
+
+// Else if Statement and results to print out:
