@@ -12,4 +12,4 @@ function circumference(radius){ //parameter is the radius
     return circumference; // returning the circumference - this function is putting the info out there
 }
 
-console.log("The circumference of the circle is "+ total +"");
+console.log("The circumference of the circle is "+ total +""); //prints out the answer to the console
