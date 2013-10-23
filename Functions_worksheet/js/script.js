@@ -24,5 +24,7 @@ console.log("The circumference of the circle is "+ total +""); //prints out the 
 var beeStings = victimWeight(120); // Bee Sting victim's weight
 
 function victimWeight(pounds){ //parameter for victim's weight in pounds
-    var stingsPerPound = 10;
+    var stingsPerPound = 10; /*it takes approximately 10 stings per pound of body weight to administer a lethal dose.
+    - website of Texas A&M*/
+    
 }
