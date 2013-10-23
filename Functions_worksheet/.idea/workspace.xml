@@ -35,7 +35,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="62" selection-start="176" selection-end="176" vertical-scroll-proportion="0.12857144" vertical-offset="0" max-vertical-offset="700">
+            <state line="7" column="19" selection-start="196" selection-end="196" vertical-scroll-proportion="0.15" vertical-offset="0" max-vertical-offset="700">
               <folding />
             </state>
           </provider>
@@ -194,13 +194,6 @@
         <state line="0" column="55" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="700" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Functions_practice/js/argument_parameter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="13" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
@@ -215,9 +208,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Functions_practice/js/argument_parameter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="13" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="62" selection-start="176" selection-end="176" vertical-scroll-proportion="0.12857144" vertical-offset="0" max-vertical-offset="700">
+        <state line="7" column="19" selection-start="196" selection-end="196" vertical-scroll-proportion="0.15" vertical-offset="0" max-vertical-offset="700">
           <folding />
         </state>
       </provider>
