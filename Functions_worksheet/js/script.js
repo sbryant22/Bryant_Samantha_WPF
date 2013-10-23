@@ -13,3 +13,11 @@ function circumference(radius){ //parameter is the radius
 }
 
 console.log("The circumference of the circle is "+ total +""); //prints out the answer to the console
+
+
+//Stung!
+
+// Calculate how many bee stings are needed to kill an animal in a function
+
+//Given:
+
