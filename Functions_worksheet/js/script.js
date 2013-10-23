@@ -24,5 +24,5 @@ console.log("The circumference of the circle is "+ total +""); //prints out the 
 var beeStings = victimWeight(120); // Bee Sting victim's weight
 
 function victimWeight(pounds){ //parameter for victim's weight in pounds
-
+    var stingsPerPound = 10;
 }
