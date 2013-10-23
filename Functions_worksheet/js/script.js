@@ -5,6 +5,6 @@
 //Calculate the circumference of a circle
 
 function circleMeasurements(radius){ //parameter is the radius
-    var radius = 5;
+    var radius = 5; // radius for circle
 
 }
