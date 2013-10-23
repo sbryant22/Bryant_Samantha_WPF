@@ -4,7 +4,7 @@
 
 //Calculate the circumference of a circle
 
-var total = circumference(2, 3.14, 5);
+var total = circumference(2, 3.14, 5); //to calculate the equation to get circumference
 
 function circumference(radius){ //parameter is the radius
     var radius = 5; // radius for circle
