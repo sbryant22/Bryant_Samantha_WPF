@@ -32,19 +32,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="1" selection-start="153" selection-end="153" vertical-scroll-proportion="0.17142858" vertical-offset="0" max-vertical-offset="700">
+            <state line="6" column="62" selection-start="176" selection-end="176" vertical-scroll-proportion="0.12857144" vertical-offset="0" max-vertical-offset="700">
               <folding />
             </state>
           </provider>
@@ -203,13 +194,6 @@
         <state line="0" column="55" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="700" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="41" selection-start="178" selection-end="178" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Functions_practice/js/argument_parameter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="13" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
@@ -224,9 +208,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="41" selection-start="178" selection-end="178" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="1" selection-start="153" selection-end="153" vertical-scroll-proportion="0.17142858" vertical-offset="0" max-vertical-offset="700">
+        <state line="6" column="62" selection-start="176" selection-end="176" vertical-scroll-proportion="0.12857144" vertical-offset="0" max-vertical-offset="700">
           <folding />
         </state>
       </provider>
