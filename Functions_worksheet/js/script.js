@@ -6,7 +6,7 @@
 
 var total = circumference(2, 3.14, 5); //to calculate the equation to get circumference
 
-function circumference(radius){ //parameter is the radius
+function circumference(radius){ //parameter for the radius
     var radius = 5; // radius for circle
     var circumference = (2 * 3.14) * radius; // Circumference = 2(pi) * radius - equation for finding the circumference of a circle
     return circumference; // returning the circumference - this function is putting the info out there
@@ -23,6 +23,6 @@ console.log("The circumference of the circle is "+ total +""); //prints out the 
 
 var beeStings = victimWeight(120); // Bee Sting victim's weight
 
-function victimWeight(pounds){
+function victimWeight(pounds){ //parameter for victim's weight in pounds
 
 }
