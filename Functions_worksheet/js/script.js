@@ -4,6 +4,8 @@
 
 //Calculate the circumference of a circle
 
+var total = circumference(2, 3.14, 5);
+
 function circumference(radius){ //parameter is the radius
     var radius = 5; // radius for circle
     var circumference = (2 * 3.14) * radius; // Circumference = 2(pi) * radius - equation for finding the circumference of a circle
