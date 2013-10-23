@@ -27,4 +27,5 @@ function victimWeight(pounds){ //parameter for victim's weight in pounds
     var stingsPerPound = 10; /*it takes approximately 10 stings per pound of body weight to administer a lethal dose.
     - website of Texas A&M*/
     var beeStings = victimWeight * 10; // equation for finding the number of bee stings it takes to give a lethal dose
+    return beeStings; // returning the number of bee stings needed
 }
