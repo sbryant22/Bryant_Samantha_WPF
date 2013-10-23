@@ -21,11 +21,15 @@ console.log("The circumference of the circle is "+ total +""); //prints out the 
 
 //Given:
 
-var beeStings = victimWeight(120); // Bee Sting victim's weight
+var victimWeight = 120; // Victim's weight
+var total = stingsNeeded(120, 10); //to calculate the equation
 
-function victimWeight(pounds){ //parameter for victim's weight in pounds
+function stingsNeeded(victimWeight){ //parameter for victim's weight in pounds
+    var victimWeight = 120; // victim's weight
     var stingsPerPound = 10; /*it takes approximately 10 stings per pound of body weight to administer a lethal dose.
     - website of Texas A&M*/
     var beeStings = victimWeight * 10; // equation for finding the number of bee stings it takes to give a lethal dose
     return beeStings; // returning the number of bee stings needed
 }
+
+console.log("It takes "+ total +" bee stings to kill this animal.");
