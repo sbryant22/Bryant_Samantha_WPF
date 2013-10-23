@@ -35,7 +35,16 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$USER_HOME$/Desktop/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.08571429" vertical-offset="0" max-vertical-offset="700">
+            <state line="6" column="36" selection-start="150" selection-end="150" vertical-scroll-proportion="0.12857144" vertical-offset="0" max-vertical-offset="700">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="argument_parameter.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Functions_practice/js/argument_parameter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="13" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
               <folding />
             </state>
           </provider>
@@ -178,9 +187,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Functions_practice/js/argument_parameter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="13" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Desktop/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.08571429" vertical-offset="0" max-vertical-offset="700">
+        <state line="6" column="36" selection-start="150" selection-end="150" vertical-scroll-proportion="0.12857144" vertical-offset="0" max-vertical-offset="700">
           <folding />
         </state>
       </provider>
