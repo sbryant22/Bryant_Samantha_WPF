@@ -27,5 +27,5 @@ function starBurst(duplicate, rotate){ //parameters for starburst
 
 // Ternary Statement and print to console:
 
-(duplicate > 5 && rotate < 10) ? console.log("Your StarBurst Design will come out great with "+ total +" rotations!") : console.log("Your StarBurst Design will come out too cluttered with "+ total +" rotations!");
+(duplicate < 10 && rotate > 2) ? console.log("Your StarBurst Design will come out great with "+ total +" rotations!") : console.log("Your StarBurst Design will come out too cluttered with "+ total +" rotations!");
 // ternary statement. Letting the user know if their design will come out great or cluttered.
