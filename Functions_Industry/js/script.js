@@ -21,7 +21,8 @@ var total = starBurst(duplicate, rotate, 11);
 
 function starBurst(duplicate, rotate, rotatingAmount){ //parameters for starburst
     var rotatingAmount = 11; //the number of times to rotate the shape to make the Star Burst design
-    var starBurst = (duplicate + rotate) * rotatingAmount; // Equation for making a starburst design
+    var starBurstDesign = (duplicate + rotate) * rotatingAmount; // Equation for making a starburst design
+    
 }
 
 // Ternary Statement and print to console:
