@@ -20,8 +20,7 @@ var total = quidditchTeam(players, monthsPerYear); // to calculate equation for 
 var quidditchTeam = function(players, monthsPerYear){ // anonymous function
     if(players === 7 && monthsPerYear === 4){
     //If there are 7 players and 4 months per year that the team plays for then this statement is true to equal 28
-        
-
+    var amountOfStudents = players * monthsPerYear;
     }
 }
 
