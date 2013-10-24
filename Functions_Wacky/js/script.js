@@ -15,6 +15,12 @@ var monthsPerYear = prompt("How many months (per year) did your student/child pl
 
 var total = quidditchTeam(players, monthsPerYear); // to calculate equation for console.log
 
+// Function with else if statement:
+
+var quidditchTeam = function(players, monthsPerYear){
+    
+}
+
 
 
 
