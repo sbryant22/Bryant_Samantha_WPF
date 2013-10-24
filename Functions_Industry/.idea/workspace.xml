@@ -26,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="41" selection-start="177" selection-end="177" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+            <state line="4" column="4" selection-start="72" selection-end="177" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -35,16 +35,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="39" selection-start="1332" selection-end="1332" vertical-scroll-proportion="0.65502185" vertical-offset="0" max-vertical-offset="687">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Conditionals_Personal/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="1162" selection-end="1162" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+            <state line="0" column="0" selection-start="0" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="687">
               <folding />
             </state>
           </provider>
@@ -67,7 +58,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="526" />
+    <option name="x" value="487" />
     <option name="y" value="25" />
     <option name="width" value="918" />
     <option name="height" value="823" />
@@ -131,13 +122,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Functions_Industry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Functions_Industry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Functions_Wacky" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager">
@@ -153,7 +158,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="526" y="25" width="918" height="823" extended-state="0" />
+    <frame x="487" y="25" width="918" height="823" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -187,30 +192,30 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/../Conditionals_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="41" selection-start="177" selection-end="177" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+        <state line="21" column="0" selection-start="1162" selection-end="1162" vertical-scroll-proportion="0.4585153" vertical-offset="0" max-vertical-offset="687">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="64" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="700">
+        <state line="0" column="0" selection-start="0" selection-end="67" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="700">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Conditionals_Personal/js/script.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="1162" selection-end="1162" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+        <state line="4" column="4" selection-start="72" selection-end="177" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="39" selection-start="1332" selection-end="1332" vertical-scroll-proportion="0.65502185" vertical-offset="0" max-vertical-offset="687">
+        <state line="0" column="0" selection-start="0" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="687">
           <folding />
         </state>
       </provider>
