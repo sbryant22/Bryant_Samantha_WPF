@@ -23,7 +23,7 @@ var quidditchTeam = function(players, monthsPerYear){ // anonymous function for 
     var amountOfStudents = players * monthsPerYear; // equation for finding out how many student Quidditch-players there are per year.
     return amountOfStudents; // returning the total to the equation
     console.log("There are "+ total +" players on a Quidditch Team per year."); // This statement comes up on the console when this proves to be true.
-    }else if(players > 7 || monthsPerYear > 4){
+    }else if(players > 7 || monthsPerYear > 4){ // else if the # of players is greater than 7 OR the months are greater than 4, statement will be false.
 
     }
 }
