@@ -19,13 +19,13 @@ var total = starBurst(duplicate, rotate, 11);
 
 // Function:
 
-function starBurst(duplicate, rotate, rotatingAmount){ //parameters for starburst
+function starBurst(duplicate, rotate){ //parameters for starburst
     var rotatingAmount = 11; //the number of times to rotate the shape to make the Star Burst design
-    var starBurstDesign = (duplicate + rotate) * rotatingAmount; // Equation for making a starburst design
+    var starBurstDesign = (duplicate + rotate) * 11; // Equation for making a starburst design
     return starBurstDesign; // returning the total to equation
 }
 
 // Ternary Statement and print to console:
 
-(duplicate < 25 && rotate > 10) ? console.log("Your StarBurst Design will come out great "+ total +"") : console.log("Your StarBurst Design will come out too cluttered with "+ duplicate +" duplicates and at a "+ rotate +" degree angle.");
+(duplicate < 25 && rotate > 10) ? console.log("Your StarBurst Design will come out great with "+ total +" rotations!") : console.log("Your StarBurst Design will come out too cluttered with "+ duplicate +" duplicates and at a "+ rotate +" degree angle.");
 // ternary statement. Letting the user know if their design will come out great or cluttered.
