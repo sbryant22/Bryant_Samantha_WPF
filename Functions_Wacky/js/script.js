@@ -11,7 +11,9 @@ var players = prompt("How many players on your team?"); // Asking for the number
 var monthsPerYear = prompt("How many months (per year) did your student/child play on the Quidditch team?");
 //Asking for the number of months that the student played on the team per year
 
+// To Calculate:
 
+var total = quidditchTeam(players, monthsPerYear);
 
 
 
