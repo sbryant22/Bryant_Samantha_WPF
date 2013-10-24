@@ -17,7 +17,7 @@ var rotate = prompt("Please enter (in degree Celsius) what angle you wish to hav
 var total = starBurst(duplicate, rotate, rotatingAmount);
 // Not part of the givens section but needed so function can calculate equation.
 
-// Function with Ternary statement:
+// Function:
 
 function starBurst(duplicate, rotate){ //parameters for starburst - 2 parameters for this one
     var rotatingAmount = 11; //the number of times to rotate the shape to make the Star Burst design
