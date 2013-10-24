@@ -12,3 +12,5 @@ var duplicate = prompt("Please enter the number of times you would like your ima
 var rotate = prompt("Please enter (in degree Celsius) what angle you wish to have your shape rotate.");
 //Asking for the number in degrees that the user would like to rotate their shape
 
+// Function with Ternary statement:
+
