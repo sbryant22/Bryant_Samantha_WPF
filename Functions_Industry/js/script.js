@@ -19,6 +19,6 @@ var total = starBurst(duplicate, rotate, rotatingAmount);
 
 // Function with Ternary statement:
 
-function starBurst(duplicate, rotate){ 
+function starBurst(duplicate, rotate){ //parameters for starburst - 2 parameters for this one
 
 }
