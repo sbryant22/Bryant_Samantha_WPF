@@ -9,3 +9,4 @@
 var duplicate = prompt("Please enter the number of times you would like your image to repeat.");
 //Asking for the number of times the user would need to duplicate their shape for Star Burst design
 
+var rotate = prompt("Please enter (in degree Celsius) what angle you wish to have your shape rotate.");
