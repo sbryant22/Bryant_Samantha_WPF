@@ -24,3 +24,6 @@ function starBurst(duplicate, rotate){ //parameters for starburst - 2 parameters
     var starBurstDesign = (duplicate + rotate) * rotatingAmount; // Equation for making a starburst design
 }
 
+// Ternary Statement and print to console:
+
+
