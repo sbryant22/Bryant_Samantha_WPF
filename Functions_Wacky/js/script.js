@@ -17,8 +17,8 @@ var total = quidditchTeam(players, monthsPerYear); // to calculate equation for 
 
 // Function with else if statement:
 
-var quidditchTeam = function(players, monthsPerYear){
-    
+var quidditchTeam = function(players, monthsPerYear){ // anonymous function 
+
 }
 
 
