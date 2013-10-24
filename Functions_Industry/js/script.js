@@ -26,4 +26,4 @@ function starBurst(duplicate, rotate){ //parameters for starburst - 2 parameters
 
 // Ternary Statement and print to console:
 
-
+(duplicate < 25 && rotate > 10) ? console.log("Your StarBurst Design will come out great with "+ duplicate +" duplicates and at a "+ rotate +" degree angle.") : console.log("Your StarBurst Design will come out too cluttered with "+ duplicate +" duplicates and at a "+ rotate +" degree angle.");
