@@ -14,17 +14,17 @@ var rotate = prompt("Please enter (in degree Celsius) what angle you wish to hav
 
 // To Calculate
 
-var total = starBurst(duplicate, rotate, rotatingAmount);
+var total = starBurst(duplicate, rotate, 11);
 // Not part of the givens section but needed so function can calculate equation.
 
 // Function:
 
-function starBurst(duplicate, rotate){ //parameters for starburst - 2 parameters for this one
+function starBurst(duplicate, rotate, rotatingAmount){ //parameters for starburst - 2 parameters for this one
     var rotatingAmount = 11; //the number of times to rotate the shape to make the Star Burst design
     var starBurstDesign = (duplicate + rotate) * rotatingAmount; // Equation for making a starburst design
 }
 
 // Ternary Statement and print to console:
 
-(duplicate < 25 && rotate > 10) ? console.log("Your StarBurst Design will come out great with "+ duplicate +" duplicates and at a "+ rotate +" degree angle.") : console.log("Your StarBurst Design will come out too cluttered with "+ duplicate +" duplicates and at a "+ rotate +" degree angle.");
+(duplicate < 25 && rotate > 10) ? console.log("Your StarBurst Design will come out great "+ total +"") : console.log("Your StarBurst Design will come out too cluttered with "+ duplicate +" duplicates and at a "+ rotate +" degree angle.");
 // ternary statement. Letting the user know if their design will come out great or cluttered.
