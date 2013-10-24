@@ -6,7 +6,9 @@
 
 // Given:
 
-var players = prompt("How many players on your team?");
+var players = prompt("How many players on your team?"); // Asking for the number of players on student's team
+
+
 
 
 
