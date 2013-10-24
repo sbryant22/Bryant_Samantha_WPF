@@ -5,3 +5,8 @@
 // If there are 7 players on each Quidditch team, how many Howarts student Quidditch-players are there? (per year)
 
 // Given:
+
+var players = prompt("How many players on your team?");
+
+
+
