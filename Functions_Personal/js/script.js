@@ -17,7 +17,7 @@ var results = happyAriel(amountOfTreats, timesPerDay);
 
 // Function and print to console:
 
-function happyAriel(amountOfTreats, timesPerDay){
+function happyAriel(amountOfTreats, timesPerDay){ //parameters for making a puppy happy
 
 }
 
