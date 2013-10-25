@@ -17,13 +17,13 @@ var quidditchTeam = function(players, monthsPerYear){ // anonymous function for 
     if(players * monthsPerYear === 28){
     //If there are 7 players and 4 months per year that the team plays for then this statement is true to equal 28
        var quidditchTeam = players * monthsPerYear; // equation for finding out how many student Quidditch-players there are per year.
-       return quidditchTeam; // returning the total to the equation
-    }else if(players > 7 || monthsPerYear > 4){ // else if the # of players is greater than 7 OR the months are greater than 4, statement will be false.
+       return quidditchTeam; // return is putting th information out there
+    }else if(players * monthsPerYear > 28){ // else if the # of players is greater than 7 OR the months are greater than 4, statement will be false.
         var quidditchTeam = players * monthsPerYear; // equation for finding out how many student Quidditch-players there are per year.
-        return quidditchTeam; // returning the total to the equation
+        return quidditchTeam; // return is putting this info out there
     }else{ // else statement for false
         var quidditchTeam = players * monthsPerYear; // equation for finding out how many student Quidditch-players there are per year.
-        return quidditchTeam; // returning the total to the equation
+        return quidditchTeam; // return is putting this information out there
     }
 }
 
@@ -33,9 +33,8 @@ var total = quidditchTeam(players, monthsPerYear); // to calculate equation for 
 
 // Print to console:
 
-console.log("There are "+ total +" players on a Quidditch Team per year."); //This statement appears if proved true
-console.log("There are "+ total +" players on your Quidditch Team which is too many!"); //This statement will appear when false. Stating that there are more than 7 players and more than 4 months per year to play the game.
-console.log("There are "+ total +" of players. So no team!"); // This statement will appear when both statements are false.
+(players * monthsPerYear === 28) ? console.log("There are "+ total +" players on a Quidditch Team per year.") : console.log("There are "+ total +" players on your Quidditch Team which is too many!");
+// ternary statement method is helping the console.log command work by displaying it to the console.
 
 
 
