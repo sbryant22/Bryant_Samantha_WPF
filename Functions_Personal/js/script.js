@@ -2,8 +2,8 @@
 
 //Calculate How many treats it takes to make my Mini Doberman Pincher (Ariel) happy.
 
-// Givens:
+// Givens: Amount of treats and how many times per day
 
-
+var amountOfTreats = prompt("How many treats did you give Ariel today?");
 
 
