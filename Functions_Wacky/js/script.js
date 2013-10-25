@@ -33,9 +33,9 @@ var total = quidditchTeam(players, monthsPerYear); // to calculate equation for 
 
 // Print to console:
 
-console.log("There are "+ total +" players on a Quidditch Team per year.");
+console.log("There are "+ total +" players on a Quidditch Team per year."); //This statement appears if proved true
 console.log("There are "+ total +" players on your Quidditch Team which is too many!"); //This statement will appear when false. Stating that there are more than 7 players and more than 4 months per year to play the game.
-console.log("There are "+ total +" of players. So no team!"); // This statement will appear when both statements are true.
+console.log("There are "+ total +" of players. So no team!"); // This statement will appear when both statements are false.
 
 
 
