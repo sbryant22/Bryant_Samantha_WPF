@@ -5,5 +5,6 @@
 // Givens: Amount of treats and how many times per day
 
 var amountOfTreats = prompt("How many treats did you give Ariel today?");
+//Asking user about how many treats they gave to Ariel that day
 
 
