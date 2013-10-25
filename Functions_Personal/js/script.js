@@ -13,5 +13,6 @@ var timesPerDay = prompt("How many times per day do you give her treats?");
 // To Calculate:
 
 var results = happyAriel(amountOfTreats, timesPerDay);
+// To calculate the equation 
 
 
