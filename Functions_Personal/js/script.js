@@ -19,18 +19,15 @@ var results = happyAriel(amountOfTreats, timesPerDay, 24);
 
 function happyAriel(amountOfTreats, timesPerDay){ //parameters for making a puppy happy
     if(amountOfTreats > 1 && timesPerDay < 5){ // if statement for how many treats and how many times a day equation
-        //var amountOfTreats = 4;
-        //var timesPerDay = 5;
         var hoursInADay = 24; //the number of hours in a day
-        var puppySmiles = (amountOfTreats * timesPerDay) / 24; //Equation for how many treats it takes to make Ariel very happy
-        return puppySmiles; // return for puppySmiles equation
+        var puppySmiles = (amountOfTreats + timesPerDay) / 24; //Equation for how many treats it takes to make Ariel very happy
+        return puppySmiles;
         console.log("Ariel got "+ results +" treats today. She's very happy!"); //If amount of treats was higher than 1 and timer per day was lower than 5, she had a good day for treats.
     }else{ //else block to if statement
-        return puppySmiles; // return for puppySmiles equation in else block
         console.log("Ariel got "+ results +" treats today. She did not get enough treats to her liking today."); //if amount of treats less than 1 and greater than 5, she will either have a tummyache or didn't get enough treats.
-
     }
-
 }
 
+happyAriel(); //reusable code
+happyAriel(); // reusable code
 
