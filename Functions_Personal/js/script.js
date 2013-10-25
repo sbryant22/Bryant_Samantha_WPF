@@ -32,6 +32,6 @@ function happyAriel(amountOfTreats, timesPerDay){ //parameters for making a pupp
 (amountOfTreats > 1 && timesPerDay < 5) ? console.log("Ariel got "+ results +" treats today. She's very happy!") : console.log("Ariel got "+ results +" treats today. She did not get enough treats to her liking today.");
 // Ternary statement used again to display information to the console
 
-happyAriel(); //reusable code
-happyAriel(); // reusable code
+happyAriel(amountOfTreats, timesPerDay); //reusable code
+happyAriel(amountOfTreats, timesPerDay); // reusable code
 
