@@ -10,4 +10,8 @@ var amountOfTreats = prompt("How many treats did you give Ariel today?");
 var timesPerDay = prompt("How many times per day do you give her treats?");
 //Asking user about how many times they provide treats per day to Ariel
 
+// To Calculate:
+
+var results = happyAriel(amountOfTreats, timesPerDay);
+
 
