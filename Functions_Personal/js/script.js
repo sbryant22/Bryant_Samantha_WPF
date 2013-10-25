@@ -22,7 +22,7 @@ function happyAriel(amountOfTreats, timesPerDay){ //parameters for making a pupp
         var hoursInADay = 24; //the number of hours in a day
         var puppySmiles = (amountOfTreats * timesPerDay) / 24; //Equation for how many treats it takes to make Ariel very happy
         return puppySmiles; // return for puppySmiles equation
-        console.log("Ariel got "+ results +" treats today. She's very happy!");
+        console.log("Ariel got "+ results +" treats today. She's very happy!"); //If amount of treats was higher than 1 and timer per day was lower than 5, she had a good day for treats.
     }
 
 }
