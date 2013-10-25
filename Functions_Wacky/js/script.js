@@ -11,17 +11,11 @@ var players = prompt("How many players on your team?"); // Asking for the number
 var monthsPerYear = prompt("How many months (per year) did your student/child play on the Quidditch team?");
 //Asking for the number of months that the student played on the team per year
 
-// To Calculate:
-
-//var total = quidditchTeam(players, monthsPerYear); // to calculate equation for console.log
-
 // Function with else if statement:
 
 var quidditchTeam = function(players, monthsPerYear){ // anonymous function for Quidditch Team
     if(players === 7 && monthsPerYear === 4){
     //If there are 7 players and 4 months per year that the team plays for then this statement is true to equal 28
-        var players = 7;
-        var monthsPerYear = 4;
         var quidditchTeam = players * monthsPerYear; // equation for finding out how many student Quidditch-players there are per year.
         return quidditchTeam; // returning the total to the equation
         console.log("There are "+ total +" players on a Quidditch Team per year."); // This statement comes up on the console when this proves to be true.
@@ -33,7 +27,10 @@ var quidditchTeam = function(players, monthsPerYear){ // anonymous function for 
     }
 }
 
-var total = quidditchTeam(players, monthsPerYear);
+// To Calculate:
+//Invoking
+
+var total = quidditchTeam(players, monthsPerYear); // to calculate equation for console.log
 
 
 
