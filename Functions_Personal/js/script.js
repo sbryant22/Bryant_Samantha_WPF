@@ -21,12 +21,16 @@ function happyAriel(amountOfTreats, timesPerDay){ //parameters for making a pupp
     if(amountOfTreats > 1 && timesPerDay < 5){ // if statement for how many treats and how many times a day equation
         var hoursInADay = 24; //the number of hours in a day
         var puppySmiles = (amountOfTreats + timesPerDay) / 24; //Equation for how many treats it takes to make Ariel very happy
-        return puppySmiles;
-        console.log("Ariel got "+ results +" treats today. She's very happy!"); //If amount of treats was higher than 1 and timer per day was lower than 5, she had a good day for treats.
+        return puppySmiles; // return is putting the information out there
     }else{ //else block to if statement
-        console.log("Ariel got "+ results +" treats today. She did not get enough treats to her liking today."); //if amount of treats less than 1 and greater than 5, she will either have a tummyache or didn't get enough treats.
+        var hoursInADay = 24; //the number of hours in a day
+        var puppySmiles = (amountOfTreats + timesPerDay) / 24; //Equation for how many treats it takes to make Ariel very happy
+        return puppySmiles; // return is putting the information out there
     }
 }
+
+(amountOfTreats > 1 && timesPerDay < 5) ? console.log("Ariel got "+ results +" treats today. She's very happy!") : console.log("Ariel got "+ results +" treats today. She did not get enough treats to her liking today.");
+// Ternary statement used again to display information to the console
 
 happyAriel(); //reusable code
 happyAriel(); // reusable code
